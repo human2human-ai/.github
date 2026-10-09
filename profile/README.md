@@ -70,8 +70,8 @@ HolonIQ lists us in the Global EdTech 1000 and the LatAm EdTech 200.
 <a href="https://www.youtube.com/@human2human-ai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://human2human.ai"><img src="https://img.shields.io/badge/human2human.ai-111827?style=for-the-badge" alt="Website"></a>
 
-<br><br>
+<br>
 
-<sub>Real conversation is now the scarce thing. That is why we are called human2human.</sub>
+*Real conversation is now the scarce thing. That is why we are called human2human.*
 
 </div>
